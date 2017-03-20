@@ -1,9 +1,11 @@
 ## Welcome to Ruolai's GitHub Page
 
 ### About me
-I am a graduate student from University of California, Davis. I double-majored in Statistics and Horticulture & Agronomy. My research interest is about grassland ecology, biomass prediction and optimized grazing management. My advisor is Dr. Emilio Laca. In UC Davis, I also worked as TA and GSR. Before this I was an undergraduate student in Zhejiang Univerysity, China, where I studied environmental chemistry and plant physiology.  ![Image](RuolaiWu.jpg)
+I am a graduate student from University of California, Davis. I double-majored in Statistics and Horticulture & Agronomy. My research interest is about grassland ecology, biomass prediction and optimized grazing management. My advisor is Dr. Emilio Laca. In UC Davis, I also worked as TA and GSR. Before this I was an undergraduate student in Zhejiang Univerysity, China, where I studied environmental chemistry and plant physiology.
 
 I plant to graduate in June. Currently, I am seeking opportunities in Data Sciences. Feel free to contact me at rlwu@ucdavis.edu
+
+![Image](RuolaiWu.jpg)
 
 ### Working Experience
 * **TA**: 
@@ -14,4 +16,4 @@ I plant to graduate in June. Currently, I am seeking opportunities in Data Scien
     * UC Davis, Agriculture Sustainability Institution, [Solution Center for Nutrient Management](http://ucanr.edu/sites/Nutrient_Management_Solutions/)
 
 ### Personal Interests
-I am interested in Hongkong cult film. Recently, my favorite one is [Five Venoms](https://en.wikipedia.org/wiki/Five_Deadly_Venoms).
+I am interested in Hongkong cult film. Recently, my favorite one is [Five Venoms](https://en.wikipedia.org/wiki/Five_Deadly_Venoms). :star2
