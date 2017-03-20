@@ -1,4 +1,9 @@
-## Welcome to Ruolai's GitHub Page
+---
+layout: post
+title: “Welcome to Ruolai's GitHub Page”
+author: Ruolai Wu
+date: '2017/03/19'
+---
 
 ### About me
 I am a graduate student from University of California, Davis. I double-majored in Statistics and Horticulture & Agronomy. My research focuses mainly agroecology. For Statistics, I am interested in Data Visualization and Geostatistics.I am proficient in R and Python. In UC Davis, I also worked as TA and GSR. Before UC Davis, I was an undergraduate student in Zhejiang Univerysity, China, where I studied environmental chemistry and plant physiology.
