@@ -3,8 +3,7 @@
 ### About me
 I am a graduate student from University of California, Davis. I double-majored in Statistics and Horticulture & Agronomy. My research focuses mainly agroecology. For Statistics, I am interested in Data Visualization and Geostatistics.I am proficient in R and Python. In UC Davis, I also worked as TA and GSR. Before UC Davis, I was an undergraduate student in Zhejiang Univerysity, China, where I studied environmental chemistry and plant physiology.
 
-I plan to graduate in June. Currently, I am seeking opportunities in Data Sciences. Feel free to contact me at rlwu@ucdavis.edu
-
+I plan to graduate in June. Currently, I am seeking opportunities in Data Sciences. feel free to [tweet at me](https://twitter.com/realdonaldtrump)
 ![Image](RuolaiWu.jpg)
 
 ### Working Experience
