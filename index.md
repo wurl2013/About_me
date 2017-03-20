@@ -5,7 +5,7 @@ I am a graduate student from University of California, Davis. I double-majored i
 
 I plant to graduate in June. Currently, I am seeking opportunities in Data Sciences.
 
-![Image](/Users/wuruolai/Desktop/RuolaiWu.jpg)
+![Image](RuolaiWu.jpg)
 s
 ###
 
