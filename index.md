@@ -16,4 +16,4 @@ I plant to graduate in June. Currently, I am seeking opportunities in Data Scien
     * UC Davis, Agriculture Sustainability Institution, [Solution Center for Nutrient Management](http://ucanr.edu/sites/Nutrient_Management_Solutions/)
 
 ### Personal Interests
-I am interested in Hongkong cult film. Recently, my favorite one is [Five Venoms](https://en.wikipedia.org/wiki/Five_Deadly_Venoms). :star2
+I am interested in Hongkong cult film. Recently, my favorite one is [Five Venoms](https://en.wikipedia.org/wiki/Five_Deadly_Venoms). :star2:
