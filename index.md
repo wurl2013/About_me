@@ -1,21 +1,3 @@
-  <head>
-    <meta charset="UTF-8">
-    <title>Sharpnack Lab</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-        <style type="text/css">
-      .page-header {
-      background-image:url("stylesheets/waterwise.jpg");
-      color: #fff;
-      text-shadow: 0px 0px 4px #ccccff;
-      }
-    </style>
-  </head>
-
-
 ## Welcome to Ruolai's GitHub Page
 
 ### About me
