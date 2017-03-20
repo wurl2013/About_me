@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Ruolai's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/wurl2013/About_me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
+I am a graduate student from University of California, Davis. I double-majored in Statistics and Horticulture & Agronomy. My research interest is about grassland ecology, biomass prediction and optimized grazing management. My advisor is Dr. Emilio Laca. In UC Davis, I also worked as TA and GSR. Before this I was an undergraduate student in Zhejiang Univerysity, China, where I studied environmental chemistry and plant physiology. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I plant to graduate in June. Currently, I am seeking opportunities in Data Sciences.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](/Users/wuruolai/Desktop/RuolaiWu.jpg)
+s
+###
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](/Users/wuruolai/Desktop/RuolaiWu.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
