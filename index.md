@@ -6,8 +6,11 @@ I am a graduate student from University of California, Davis. I double-majored i
 I plant to graduate in June. Currently, I am seeking opportunities in Data Sciences.
 
 ![Image](RuolaiWu.jpg)
-s
-###
+
+### Working Experience
+**TA**: [PLS 120](http://catalog.ucdavis.edu/programs/PLS/PLScourses.html) The Application of Biomastats in Agriculture and Animal Sciences
+    CHE 02B General Chemistry
+**GSR**: UC Davis, Agriculture Sustainability Institution, [Solution Center for Nutrient Management](http://ucanr.edu/sites/Nutrient_Management_Solutions/)
 
 ```markdown
 Syntax highlighted code block
